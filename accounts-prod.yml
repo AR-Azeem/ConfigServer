@@ -1,0 +1,9 @@
+build:
+  version: 21.0
+message: "Accounts Microservice for prod"
+contacts:
+  name: "Azeem"
+  email: "azeem@gmail.com"
+support:
+  - +918789678
+  - +916782833

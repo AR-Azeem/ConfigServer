@@ -1,0 +1,10 @@
+build:
+  version: 2.0
+cards:
+  message: "Cards Microservice for prod"
+  contacts:
+    name: "Azeem"
+    email: "azeem@gmail.com"
+  support:
+    - +918789678
+    - +916782833

@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+cards:
+  message: "Cards Microservice for default"
+  contacts:
+    name: "Azeem"
+    email: "azeem@gmail.com"
+  support:
+    - +918789678
+    - +916782833
