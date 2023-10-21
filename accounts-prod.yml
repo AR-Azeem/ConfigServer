@@ -1,5 +1,5 @@
 build:
-  version: 23.09
+  version: 24.09
 message: "Accounts Microservice for prod"
 contacts:
   name: "Azeem"
