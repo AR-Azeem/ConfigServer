@@ -3,8 +3,8 @@ build:
 cards:
   message: "Cards Microservice for prod"
   contacts:
-    name: "Abdul Azeem"
-    email: "abazeem@gmail.com"
+    name: "{cipher}5f079664ce3e812abadfe49d91d156d33204e797d9c536164a1041a2a52e54de"
+    email: "{cipher}62eaf179fb436fff13ea33225676c140a9ac5dfb18bffbab7aabeedc735288d5"
   support:
     - +918789678
     - +916782833
