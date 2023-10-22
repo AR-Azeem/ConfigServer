@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 cards:
-  message: "Cards Microservice for default abcd"
+  message: "Cards Microservice for default abcd909"
   contacts:
     name: "Azeem"
     email: "azeem@gmail.com"
