@@ -7,4 +7,4 @@ eureka:
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
-      deafultZone: "http://${eureka.instance.hostname}:${server.port}/eureka/
+      deafultZone: "http://${eureka.instance.hostname}:${server.port}/eureka/"
